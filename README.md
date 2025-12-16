@@ -3,7 +3,7 @@
 Git en https://git-scm.com/install/windows
 <img width="1011" height="631" alt="Captura de pantalla 2025-12-15 230233" src="https://github.com/user-attachments/assets/366c3bd2-0da8-4115-803c-a2297a46ce72" />
 
-## Verificación
+## Verificación J
 ```
 git --version
 ```
